@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Copyright CSI-Piemonte - 2017-2020
+  SPDX-License-Identifier: EUPL-1.2
+-->
+<jboss-deployment-structure>
+	<deployment>
+
+		<exclude-subsystems>
+			<subsystem name="resteasy" />
+		</exclude-subsystems>
+
+		<exclusions>
+			<module name="javaee.api" />
+			<module name="javax.ws.rs.api" />
+			<module name="org.jboss.resteasy.resteasy-jaxrs" />
+		</exclusions>
+
+		<local-last value="true" />
+
+	</deployment>
+</jboss-deployment-structure>
