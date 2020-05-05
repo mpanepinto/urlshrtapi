@@ -18,7 +18,6 @@ dependsOn:
       version: 6.4 EAP
       versionMax: ''
       versionMin: ''
-logo: img/logo.svg
 description:
   it:
     features:
@@ -96,6 +95,8 @@ it:
     cie: false
     pagopa: false
     spid: false
+  riuso:
+    codiceIPA: csi_piem
 legal:
   license: EUPL-1.2
   mainCopyrightOwner: csipiemonte
@@ -104,6 +105,7 @@ localisation:
   availableLanguages:
     - it
   localisationReady: true
+logo: 'https://raw.githubusercontent.com/csipiemonte/urlshrtapi/master/img/logo.svg'
 maintenance:
   contacts:
     - email: simone.capitani@csi.it
