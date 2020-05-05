@@ -74,16 +74,13 @@ description:
 
       `        Date: Thu, 30 Apr 2020 09:42:53 GMT`
 
-
-      ​
-
-
       `{"shorturl":"http://www.url-s.it/us/822d93c2"}`
     shortDescription: >-
       Rest Api che consente di comprimere gli URL in modo da trasformare
       indirizzi web lunghi in link cortissimi.
 developmentStatus: stable
 it:
+  countryExtensionVersion: "0.2"
   conforme:
     gdpr: true
     lineeGuidaDesign: false
