@@ -1,5 +1,5 @@
 name*,version*,license*,vendor/community,end-of-support,dependencies,language
-aopalliance/aopalliance,1.0,,Public Domain,,,java
+aopalliance/aopalliance,1.0,Public Domain,,,java
 com.google.code.gson/gson,2.3,http://www.apache.org/licenses/LICENSE-2.0.txt,,,java
 com.googlecode.concurrentlinkedhashmap/concurrentlinkedhashmap-lru,1.4.2,http://www.apache.org/licenses/LICENSE-2.0.txt,,,java
 commons-beanutils/commons-beanutils,1.8.3,http://www.apache.org/licenses/LICENSE-2.0.txt,,,java
